@@ -4,8 +4,9 @@ title: Writing a post
 We use [Hexo](https://hexo.io/) for our blogging platform.
 
 ## Setup
-1. Clone this repository and checkout the `develop` branch.
-2. Run `npm install`
+1. Install Hexo with `npm install hexo-cli -g`
+2. Clone this repository and checkout the `develop` branch.
+3. Run `npm install`
 
 ## Writing
 1. Generate your new post with `hexo new "<post name>"`
