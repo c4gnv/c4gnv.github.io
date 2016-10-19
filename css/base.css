@@ -1,0 +1,19 @@
+body {
+  background-color: #fefceb;
+  font-family: 'Roboto Slab', serif;
+  margin: 25px 20px 100px 25px;
+}
+h1,
+h2 {
+  font-weight: 300;
+}
+p {
+  color: #423a37;
+  max-width: 600px;
+}
+a {
+  color: #3b67cf;
+}
+strong {
+  color: #52a332;
+}
