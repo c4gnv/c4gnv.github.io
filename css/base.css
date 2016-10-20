@@ -35,18 +35,18 @@ strong {
   .core-team {
     margin: 0;
   }
-}
-.core-team th,
-.core-team td {
-  padding: 0.5em;
-}
-.core-team th {
-  border-bottom: 1px solid #111;
-  font-weight: bold;
-  text-align: left;
-}
-.core-team td {
-  border-bottom: 1px solid rgba(0,0,0,0.1);
+  .core-team th,
+  .core-team td {
+    padding: 0.5em;
+  }
+  .core-team th {
+    border-bottom: 1px solid #111;
+    font-weight: bold;
+    text-align: left;
+  }
+  .core-team td {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+  }
 }
 /* MailChimp */
 #mc_embed_signup {
