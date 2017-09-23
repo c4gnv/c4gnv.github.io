@@ -1,0 +1,13 @@
+# Code for Gainesville
+
+This is the source code for our [http://c4gnv.com](brigade's website).
+
+## Stuffs
+
+Use SLDS
+
+## Run locally
+
+`python -m SimpleHTTPServer 8000`
+
+## Deploy
